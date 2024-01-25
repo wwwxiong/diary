@@ -1,2 +1,3 @@
-# diary
-学习日志
+fn main(){  
+    println!("Hallo,world!"); 
+}
